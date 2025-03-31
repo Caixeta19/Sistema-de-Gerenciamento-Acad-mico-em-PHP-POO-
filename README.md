@@ -12,10 +12,8 @@ Criar um sistema simples de gestão de uma faculdade utilizando conceitos de POO
 
 Linguagem: PHP (Programação Orientada a Objetos)
 
-🚀 Como Executar o Projeto
 
-👨‍💻 Desenvolvido por
-Guilherme Caixeta
+👨‍💻 Desenvolvido por Guilherme Caixeta
 
 
 
